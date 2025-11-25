@@ -1,1 +1,1 @@
-Repositorio  de Python, APIs, FastAPI  IA.
+Repositorio  de Python, APIs, FastAPI e  IA.
